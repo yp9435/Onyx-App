@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/yp9435/Onyx-App/blob/main/banner.png))
+![alt text](https://github.com/yp9435/Onyx-App/blob/main/banner.png)
 <br/>
 <hr/>
 <h1>Have You Ever Felt Alone Even When Surrounded by People?</h1>
